@@ -1,0 +1,28 @@
+.task-item {
+  padding: 10px;
+}
+.task-item button{
+  margin-left: 10px;
+  background-color: #cd1b1b;
+  color: #fff;
+  border: 0px;
+  padding: 7px;
+  border-radius: 5px;
+}
+.input-container input{
+  padding: 10px;
+  width: 300px;
+  border-radius: 0px;
+}
+.input-container button{
+  padding: 12px;
+    background-color: #608e2e;
+    color: #fff;
+    border: 0px;
+}
+.task-list{
+  list-style: none;
+}
+.app-container {
+  text-align: center;
+}

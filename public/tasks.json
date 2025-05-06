@@ -1,0 +1,7 @@
+[
+    { "id": 1, "title": "Html", "completed": false },
+    { "id": 2, "title": "Css", "completed": true },
+    { "id": 3, "title": "React", "completed": true },
+    { "id": 4, "title": "JavaScript", "completed": true }
+  ]
+  
