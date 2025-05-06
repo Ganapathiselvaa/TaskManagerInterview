@@ -1,5 +1,6 @@
 
-![localhost_3000_ (1)](https://github.com/Ganapathiselvaa/TaskImage.png)
+![localhost_3000_ (1)](https://github.com/Ganapathiselvaa/TaskManagerInterview
+Private/TaskImage.png)
 
 # Getting Started with Create React App
 
